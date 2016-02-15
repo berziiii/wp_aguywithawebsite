@@ -12,7 +12,7 @@
 
 		<footer>
 			<div class="footer-container">
-				<h6>Off-Piste Designs &copy; 2015. All Rights Reserved.</h6>
+				<h6>Off-Piste Designs &copy; 2016. All Rights Reserved.</h6>
 			</div>
 		</footer>
 		<script src="<?php bloginfo('template_directory'); ?>/main.js"></script>
